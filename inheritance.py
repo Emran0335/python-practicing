@@ -80,3 +80,6 @@ cat.speak()
 mouse.eat()
 mouse.sleep()
 mouse.speak()
+
+
+# inheritance is finished
