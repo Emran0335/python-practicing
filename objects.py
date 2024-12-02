@@ -121,3 +121,8 @@ print(Student.num_students)
 #     student1.name = name
 #     student1.age = age
 #     # self refers to the instance or object we are currently working with
+
+
+
+# git branch -M main
+# -M means modified. So, it will modified the branch to main.
